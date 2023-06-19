@@ -70,7 +70,7 @@ namespace FujtajblBeta
             }
             else
             {
-                return null; // or throw an exception indicating invalid vypocet
+                return null;
             }
         }
     }
